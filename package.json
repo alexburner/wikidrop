@@ -1,0 +1,19 @@
+{
+  "name": "wikidrop",
+  "version": "0.0.1",
+  "description": "Scrapes a requested Wikipedia article, bundles it into a web component, and drops it in to the client.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexburner/wikidrop.git"
+  },
+  "author": "aburner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexburner/wikidrop/issues"
+  },
+  "homepage": "https://github.com/alexburner/wikidrop"
+}
