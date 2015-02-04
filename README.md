@@ -1,6 +1,7 @@
 # Wikidrop
-
-Scrapes a requested Wikipedia article, bundles it into a web component, and drops it down to the client.
+* Scrapes a requested Wikipedia article (by title)
+* Bundles it into a web component (via Polymer)
+* Drops it down to the client (hooray)
 
 ## Installation
 #### Prerequisites (brew, node)
