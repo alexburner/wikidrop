@@ -13,7 +13,7 @@ $ brew install node
 ```
 #### Local install
 ```
-$ git clone https://github.com/alexburner/wikidrop.git:wikidrop
+$ git clone https://github.com/alexburner/wikidrop.git
 $ cd wikidrop
 $ npm install
 ```
